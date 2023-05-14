@@ -7,6 +7,9 @@
 
 - ![image](https://github.com/asheerulhaque/asheerulhaque/assets/101623496/a711833c-0695-42c4-9134-d28b39c94e1d)
  My google Dev [https://g.dev/asheerulhaque](https://g.dev/asheerulhaque)
+ 
+- ![image](https://github.com/asheerulhaque/asheerulhaque/assets/101623496/a48fb38d-bed5-42da-901a-fe66c5a60259)
+ My Microsoft Profile [https://learn.microsoft.com/en-us/users/asheerulhaque-8405/](https://learn.microsoft.com/en-us/users/asheerulhaque-8405/)
 
 - 📫 How to reach me **haqueasheerul86@gmail.com**
 
