@@ -3,7 +3,7 @@
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=asheerulhaque&label=Profile%20views&color=0e75b6&style=flat" alt="asheerulhaque" /> </p>
 
-- 👯 I’m looking to collaborate in **Android and Web development field.**
+- 👯 I’m looking to collaborate in Android and Web development fields.
 
 - ![image](https://github.com/asheerulhaque/asheerulhaque/assets/101623496/a711833c-0695-42c4-9134-d28b39c94e1d)
  My google Dev [https://g.dev/asheerulhaque](https://g.dev/asheerulhaque)
