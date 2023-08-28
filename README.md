@@ -15,7 +15,6 @@
 
 - 📄 Know about my experiences <a href="https://drive.google.com/file/d/1Dc3udoHCOAFN1SjKGEYQz3Efh0UL1DpC/view?usp=share_link">Resume</a>
 
-- ⚡ Fun fact **The longest word in the English language is "pneumonoultramicroscopicsilicovolcanoconiosis," which is a type of lung disease caused by inhaling very fine silica particles.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
