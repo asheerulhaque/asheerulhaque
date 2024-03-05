@@ -38,8 +38,10 @@
 **Professional Profiles:**
 
 
-- ![Google Developers Logo](https://github.com/asheerulhaque/asheerulhaque/assets/101623496/a711833c-0695-42c4-9134-d28b39c94e1d) [Google Developer Profile](https://g.dev/asheerulhaque)
-- ![image](https://github.com/asheerulhaque/asheerulhaque/assets/101623496/a48fb38d-bed5-42da-901a-fe66c5a60259) [Microsoft Profile](https://learn.microsoft.com/en-us/users/asheerulhaque-8405/)
+- ![Google Developers Logo](https://github.com/asheerulhaque/asheerulhaque/assets/101623496/a711833c-0695-42c4-9134-d28b39c94e1d) 
+[Google Developer Profile](https://g.dev/asheerulhaque)
+- &nbsp;![image](https://github.com/asheerulhaque/asheerulhaque/assets/101623496/a48fb38d-bed5-42da-901a-fe66c5a60259) 
+[Microsoft Profile](https://learn.microsoft.com/en-us/users/asheerulhaque-8405/)
 
 **Contact Information:**
 
