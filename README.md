@@ -35,15 +35,19 @@
 
 <p align="left">Software engineer specializing in frontend development with expertise in React, dedicated to crafting intuitive enterprise solutions at Valbz while fostering collaboration and innovation</p>
 
-- ![image]([https://github.com/asheerulhaque/asheerulhaque/assets/101623496/a711833c-0695-42c4-9134-d28b39c94e1d](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Google_Developers_text_logo.svg/1280px-Google_Developers_text_logo.svg.png))
- My google Dev [https://g.dev/asheerulhaque](https://g.dev/asheerulhaque)
- 
-- ![image](https://github.com/asheerulhaque/asheerulhaque/assets/101623496/a48fb38d-bed5-42da-901a-fe66c5a60259)
- My Microsoft Profile [https://learn.microsoft.com/en-us/users/asheerulhaque-8405/](https://learn.microsoft.com/en-us/users/asheerulhaque-8405/)
+**Professional Profiles:**
 
-- 📫 How to reach me **haqueasheerul86@gmail.com**
+- [Google Developer Profile](https://g.dev/asheerulhaque)
+- [Microsoft Profile](https://learn.microsoft.com/en-us/users/asheerulhaque-8405/)
 
-- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1Dc3udoHCOAFN1SjKGEYQz3Efh0UL1DpC/view?usp=share_link">Resume</a>
+**Contact Information:**
+
+📧 Email: haqueasheerul86@gmail.com
+
+**Professional Experience:**
+
+[Download Resume](link to your resume)
+
 
 ###
 
