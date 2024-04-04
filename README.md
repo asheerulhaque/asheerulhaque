@@ -19,9 +19,7 @@
 
 ###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=asheerulhaque.asheerulhaque&left_color=turquoise&right_color=slategrey"  />
-</div>
+
 
 ###
 
