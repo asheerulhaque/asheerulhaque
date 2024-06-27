@@ -32,10 +32,6 @@
 
 <p align="left">Software engineer specializing in frontend development with expertise in React, dedicated to crafting intuitive enterprise solutions at Valbz while fostering collaboration and innovation</p>
 
-**Current Focus:**
-
-- Learning new framework angular and next.js with implmentation of 3d effects using gsap and framer motion.
-
 
 **Professional Profiles:**
 
