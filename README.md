@@ -43,11 +43,11 @@
 
 **Contact Information:**
 
-📧 Email: haqueasheerul86@gmail.com
+📧 Email: asheerul.dev@gmail.com
 
 **Professional Experience:**
 
-📄 [Download Resume](https://drive.google.com/file/d/1Dc3udoHCOAFN1SjKGEYQz3Efh0UL1DpC/view?usp=share_link)
+📄 [Download Resume](https://drive.google.com/file/d/1zDkd8oJwF4cdwe7ZWSTP8rgxCz51OVtu/view?usp=sharing)
 
 
 ###
