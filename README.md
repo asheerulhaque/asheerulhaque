@@ -10,24 +10,13 @@
 
 ---
 
-### 👨‍💻 About Me
-
-<p align="left">
-I am a <strong>Software Developer</strong> with 2.5+ years of experience designing and building ERP-scale, data-driven web applications using React.js, Django REST, and Flask.  
-Currently working at <strong>Vite Knowledge Pvt. Ltd.</strong>, I focus on developing scalable, secure, and maintainable enterprise solutions.  
-Winner of the <strong>DSCI CSGC 2.0 Innovation Challenge (₹5L prize)</strong> and a <strong>CEH (Practical)</strong> certified developer, I specialize in secure coding, API hardening, and frontend architecture.  
-My approach combines design thinking, performance optimization, and practical DevSecOps awareness to deliver enterprise-grade systems that scale.
-</p>
-
----
-
 ### 🧩 Core Competencies
 
 - **Frontend Development:** React.js, TypeScript, JavaScript (ES6+), Ant Design, Material UI, Tailwind CSS, Framer Motion  
 - **Backend Development:** Django, Flask, REST API Design, Python  
 - **Databases:** PostgreSQL, SQL  
 - **Security & DevOps:** CEH (Practical), API Security, Secure Coding, Nginx, Git, Vite  
-- **Additional Skills:** Bash scripting, PWA, OTP Authentication, Payment Gateway Integration (Easebuzz, Razorpay)  
+- **Additional Skills:** Bash scripting, PWA
 
 ---
 
